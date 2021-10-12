@@ -47,5 +47,5 @@ Artifact occurs when head related impulse response (HRIR) switches, but it becom
        ![image](https://user-images.githubusercontent.com/86009768/136985141-e5a6c8bc-c6d9-47d8-825f-9a156c4a434a.png)
   
   3. Before and After 
-     ![image](https://user-images.githubusercontent.com/86009768/136985354-c817bfad-cb70-433b-8f05-e62f3e182dfc.png)
+     ![image](https://user-images.githubusercontent.com/86009768/136985430-cd239044-9476-4c82-aa64-cfe846fdc278.png)
 

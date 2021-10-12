@@ -51,6 +51,15 @@ Artifact occurs when head related impulse response (HRIR) switches, but it becom
 
 # Implementation 3 -  fast convolution HRIR switching
 Unnatural sound can be resolved by applying __compact cross – fading__.
+* Structure
 ![image](https://user-images.githubusercontent.com/86009768/136985894-fba87740-b21b-456e-8d6c-8ceaf0db5bb5.png)
  
  (Image from [Real-time Spatial Representation of Moving Sound Sources][research])
+
+* Implementation (sound 넣기)
+  ![image](https://user-images.githubusercontent.com/86009768/136986438-8e2f4560-21a9-41c0-9799-c417c3252c14.png)
+  
+# Implementation 4 -  GUI
+
+![image](https://user-images.githubusercontent.com/86009768/136986561-01a5a666-6077-4e41-9717-2756638fdcfb.png)
+

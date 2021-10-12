@@ -15,3 +15,17 @@ The simulation of moving sound sources represents a important issue for efficien
 In this [research][research], the proposed algorithm overcomes discontinuity of sound and the excessive calculation load problems usually raised by moving sound source spatial representation techniques, while high-quality 3D sound spatial quality is achieved.
 
 ![image](https://user-images.githubusercontent.com/86009768/136959961-12dcd7fd-b5bd-4484-9813-c43353a8d45a.png)
+
+### Solutions
+
+1. Fade In/Out  window
+
+2. FFT-based Overlap-Add block convolution
+
+# Implementation 1 - windowing fade in, fade out
+
+Artifact occurs when HRIR switches, but it becomes smooth when fade in and out is applied.
+![image](https://user-images.githubusercontent.com/86009768/136981140-c4c31b0d-033a-40a7-9d2d-5af3d74dd5db.png)
+
+* Windowing fade in, fade out
+* 

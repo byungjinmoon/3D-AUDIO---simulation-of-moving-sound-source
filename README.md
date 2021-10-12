@@ -39,5 +39,10 @@ Artifact occurs when head related impulse response (HRIR) switches, but it becom
      * Result (output y)
        ![image](https://user-images.githubusercontent.com/86009768/136984766-47a129b0-154d-497f-a2a0-85f57d612592.png)
 
-  3. 
+  2. Windowing fade in/out
+     * example) Input : Sine wave
+       ![image](https://user-images.githubusercontent.com/86009768/136985061-08a7d4b4-fea1-4f1a-9636-09789042d500.png)
+
+     * Result (output y)
+       ![image](https://user-images.githubusercontent.com/86009768/136985141-e5a6c8bc-c6d9-47d8-825f-9a156c4a434a.png)
 

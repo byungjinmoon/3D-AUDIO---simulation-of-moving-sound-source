@@ -28,4 +28,5 @@ Artifact occurs when HRIR switches, but it becomes smooth when fade in and out i
 ![image](https://user-images.githubusercontent.com/86009768/136981140-c4c31b0d-033a-40a7-9d2d-5af3d74dd5db.png)
 
 * Windowing fade in, fade out
-* 
+  We can use the Fourier window to apply fade in and fade out in overlap-add. 
+  ![image](https://user-images.githubusercontent.com/86009768/136982838-8030f0b4-a3d4-44f9-a6fc-7c0cc27c357c.png)

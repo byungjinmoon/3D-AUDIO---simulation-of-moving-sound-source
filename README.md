@@ -49,3 +49,7 @@ Artifact occurs when head related impulse response (HRIR) switches, but it becom
   3. Before and After 
      ![image](https://user-images.githubusercontent.com/86009768/136985430-cd239044-9476-4c82-aa64-cfe846fdc278.png)
 
+# Implementation 3 -  fast convolution HRIR switching
+Unnatural sound can be resolved by applying __compact cross – fading__.
+![image](https://user-images.githubusercontent.com/86009768/136985894-fba87740-b21b-456e-8d6c-8ceaf0db5bb5.png)
+ (Image from [Real-time Spatial Representation of Moving Sound Sources][research])

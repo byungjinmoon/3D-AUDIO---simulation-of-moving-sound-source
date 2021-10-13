@@ -56,7 +56,7 @@ Unnatural sound can be resolved by applying __compact cross – fading__.
  
  (Image from [Real-time Spatial Representation of Moving Sound Sources][research])
 
-* Implementation (sound 넣기)
+* Implementation (we can listen moving sound in audio files.)
   ![image](https://user-images.githubusercontent.com/86009768/136986438-8e2f4560-21a9-41c0-9799-c417c3252c14.png)
   
 # Implementation 4 -  GUI

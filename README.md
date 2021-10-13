@@ -32,7 +32,7 @@ Artifact occurs when head related impulse response (HRIR) switches, but it becom
   
   ![image](https://user-images.githubusercontent.com/86009768/136982838-8030f0b4-a3d4-44f9-a6fc-7c0cc27c357c.png)
 
-# Implementation 2 -  fast convolution HRIR switching
+# Implementation 2 -  removal artifacts with windowing fade in/out
   1. Not windowing fade in/out
      * example) Input : Sine wave
      ![image](https://user-images.githubusercontent.com/86009768/136984586-0fd81246-9230-4064-9013-d9a14dfbdde2.png)
